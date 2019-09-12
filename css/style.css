@@ -1,0 +1,194 @@
+.bg-blue-menu{
+	background-color: #fff;
+	color:#fff;
+	text-align: center;
+
+}
+.block.bg-blue-menu{
+	margin-top: 0;
+	padding: 20px 0;
+}
+.circle-menu{
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	border-radius: 100%;
+	background-color: #fff;
+	color: #007cc8;
+	text-align:center;
+	display: block;
+	margin: 0 auto;
+}
+.bg-blue-menu .block-title{
+	color: #fff;
+	margin-top: 10px;
+}
+.panel-left{
+	background-color: #24282D;
+}
+.panel-left .list{
+	color: #e1dfdd;
+	font-size:14px;
+	
+}
+h1,h2,h3,h4,h5,h6{
+	margin:5px 0;
+}
+
+.img-fluid{
+	max-width:100%;
+	display:block;
+}
+.cart-producto h2{
+	font-size: 30px;	
+}
+.card-producto i{
+	color:#D7C523;
+}
+.cart-producto h3{
+	font-size: 16px;	
+}
+.card-producto .card-header{
+	padding:0;
+}
+.logo{
+	margin-right: 10px;
+}
+
+.loguito{
+	margin-left: 70px;
+}
+.list-button .button{
+	width: 50%;
+	margin: 70px auto;
+	background-color: #000000 !important;
+}
+.list-button-dos .button{
+	width: 50%;
+	margin: 40px auto;
+	margin-bottom: 95px;
+	background-color: #000000 !important;
+}
+.list-button-tres .button{
+	width: 50%;
+	margin: 10px auto;
+	margin-bottom: 20px;
+	background-color: #000000 !important;
+}
+.footer{
+	background-color: #F49817;
+	color: #000 !important;
+	text-align: center !important;
+	font-size: 18px;
+	padding: 40px;
+}
+
+.tipo1 {
+	background-color: #B7B7B7;
+	height: 200px !important;
+}
+
+.title1{
+	color: black;
+	width: 100%;
+	text-align: center;
+	font-size: 50px;
+}
+
+
+.image{
+	background-color: orange;
+	width: 40%;
+	background-position: center;
+	margin-left: 30%;
+
+}
+
+.image2{
+	background-color: orange;
+	width: 100%;
+	background-position: center;
+
+}
+
+.image-container{
+	background-color: orange;
+	width:100%;
+	align-items: center;
+		
+}
+
+
+.list-button{
+	text-align: center;
+	font-size: 25px;
+}
+
+.list-button h1{
+	color: black;
+}
+
+.list-button p{
+	color: black;
+}
+
+.texto-antes-footer{
+	margin-bottom: 30%;
+	text-align: center;
+	color: #000;
+	font-size: 14px;
+}
+
+.margen{
+	margin-top: 23%;
+}
+
+.margen-index{
+	margin-top: 27% !important;
+}
+
+.texto-usuario{
+	text-align: center;
+	color: #000;
+	font-size: 14px;
+}
+
+.titulo-usuario{
+	text-align: center;
+	color: #000;
+	font-size: 18px;
+}
+
+.titulo-naranja{
+	background-color: #F49817;
+	color: #000 !important;
+	text-align: center !important;
+	font-size: 18px;
+	padding: 18px;
+	margin-top: 18% !important;
+}
+
+
+.texto-empresas{
+	text-align: left;
+	color: #000;
+	font-size: 18px;
+	margin-left: 20%;
+	margin-top: 10px;
+}
+
+.nombre{
+	font-size: 12px !important;
+	font-weight: 500;
+	color: #F49817;
+}
+
+.area{
+	font-size: 10px;
+	font-weight: 300;
+	color: #000;
+}
+
+.perfil{
+	margin-left: 30%;
+}
