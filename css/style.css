@@ -75,6 +75,11 @@ h1,h2,h3,h4,h5,h6{
 	margin-bottom: 20px;
 	background-color: #000000 !important;
 }
+.list-button-cuatro .button{
+	width: 50%;
+	margin: 10px auto;
+	background-color: #000000 !important;
+}
 .footer{
 	background-color: #F49817;
 	color: #000 !important;
